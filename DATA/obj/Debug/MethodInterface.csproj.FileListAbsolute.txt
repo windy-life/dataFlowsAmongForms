@@ -1,11 +1,10 @@
 C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\bin\Debug\DATA.exe.config
-C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\bin\Debug\DATA.exe
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\bin\Debug\DATA.pdb
 C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\obj\Debug\DATA.frmDataShow.resources
 C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\obj\Debug\DATA.frmDataSource.resources
 C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\obj\Debug\DATA.frmMain.resources
 C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\obj\Debug\DATA.Properties.Resources.resources
-C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\obj\Debug\DATA.csproj.GenerateResource.Cache
-C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\bin\Debug\DATA.exe
-C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\bin\Debug\DATA.pdb
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\obj\Debug\MethodInterface.csproj.GenerateResource.Cache
 C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\obj\Debug\DATA.exe
 C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\DATA\obj\Debug\DATA.pdb

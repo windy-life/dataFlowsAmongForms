@@ -1,0 +1,11 @@
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodDelegate\bin\Debug\MethodDelegate.exe.config
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodDelegate\obj\Debug\MethodDelegate.csprojResolveAssemblyReference.cache
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodDelegate\obj\Debug\MethodDelegate.frmDataShow.resources
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodDelegate\obj\Debug\MethodDelegate.frmDataSource.resources
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodDelegate\obj\Debug\MethodDelegate.frmMain.resources
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodDelegate\obj\Debug\MethodDelegate.Properties.Resources.resources
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodDelegate\obj\Debug\MethodDelegate.csproj.GenerateResource.Cache
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodDelegate\bin\Debug\MethodDelegate.exe
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodDelegate\bin\Debug\MethodDelegate.pdb
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodDelegate\obj\Debug\MethodDelegate.exe
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodDelegate\obj\Debug\MethodDelegate.pdb

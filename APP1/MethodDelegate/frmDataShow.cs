@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DATA
+namespace MethodDelegate
 {
-    public partial class Form1 : Form
+    public partial class frmDataShow : Form
     {
-        public Form1()
+        public frmDataShow()
         {
             InitializeComponent();
+        }
+
+        public void GetMsg(string str)
+        {
+            textBox1.Text = str;
         }
     }
 }

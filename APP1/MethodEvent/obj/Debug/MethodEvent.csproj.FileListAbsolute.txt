@@ -1,0 +1,10 @@
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodEvent\bin\Debug\MethodEvent.exe.config
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodEvent\bin\Debug\MethodEvent.exe
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodEvent\bin\Debug\MethodEvent.pdb
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodEvent\obj\Debug\MethodEvent.frmDataShow.resources
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodEvent\obj\Debug\MethodEvent.frmDataSource.resources
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodEvent\obj\Debug\MethodEvent.frmMain.resources
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodEvent\obj\Debug\MethodEvent.Properties.Resources.resources
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodEvent\obj\Debug\MethodEvent.csproj.GenerateResource.Cache
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodEvent\obj\Debug\MethodEvent.exe
+C:\Users\afei\Documents\GitHub\dataFlowsAmongForms\APP1\MethodEvent\obj\Debug\MethodEvent.pdb
