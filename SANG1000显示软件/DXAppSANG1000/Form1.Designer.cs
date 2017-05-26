@@ -29,22 +29,23 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DevExpress.XtraEditors.TileItemElement tileItemElement9 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.Utils.SuperToolTip superToolTip9 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem9 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem9 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.XtraEditors.TileItemElement tileItemElement10 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.Utils.SuperToolTip superToolTip10 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem10 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem10 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.XtraEditors.TileItemElement tileItemElement11 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.Utils.SuperToolTip superToolTip11 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem11 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem11 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.XtraEditors.TileItemElement tileItemElement12 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.Utils.SuperToolTip superToolTip12 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem12 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.ToolTipItem toolTipItem12 = new DevExpress.Utils.ToolTipItem();
+            this.components = new System.ComponentModel.Container();
+            DevExpress.XtraEditors.TileItemElement tileItemElement5 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.Utils.SuperToolTip superToolTip5 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem5 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem5 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.XtraEditors.TileItemElement tileItemElement6 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.Utils.SuperToolTip superToolTip6 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem6 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem6 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.XtraEditors.TileItemElement tileItemElement7 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.Utils.SuperToolTip superToolTip7 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem7 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem7 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.XtraEditors.TileItemElement tileItemElement8 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.Utils.SuperToolTip superToolTip8 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem8 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.ToolTipItem toolTipItem8 = new DevExpress.Utils.ToolTipItem();
             this.tileBar = new DevExpress.XtraBars.Navigation.TileBar();
             this.tileBarGroupTables = new DevExpress.XtraBars.Navigation.TileBarGroup();
             this.eployeesTileBarItem = new DevExpress.XtraBars.Navigation.TileBarItem();
@@ -100,7 +101,54 @@
             this.label14 = new System.Windows.Forms.Label();
             this.customersLabelControl = new DevExpress.XtraEditors.LabelControl();
             this.navigationPage1 = new DevExpress.XtraBars.Navigation.NavigationPage();
-            this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel();
+            this.groupControl7 = new DevExpress.XtraEditors.GroupControl();
+            this.tbxYAngle206 = new System.Windows.Forms.TextBox();
+            this.label16 = new System.Windows.Forms.Label();
+            this.rtb206 = new System.Windows.Forms.RichTextBox();
+            this.tbxXAngle206 = new System.Windows.Forms.TextBox();
+            this.tbxTempreature206 = new System.Windows.Forms.TextBox();
+            this.label17 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.groupControl8 = new DevExpress.XtraEditors.GroupControl();
+            this.label19 = new System.Windows.Forms.Label();
+            this.btnCollect206 = new System.Windows.Forms.Button();
+            this.btnSelectPath206 = new System.Windows.Forms.Button();
+            this.label20 = new System.Windows.Forms.Label();
+            this.tbxFilePath206 = new System.Windows.Forms.TextBox();
+            this.tbxFileName206 = new System.Windows.Forms.TextBox();
+            this.label21 = new System.Windows.Forms.Label();
+            this.groupControl9 = new DevExpress.XtraEditors.GroupControl();
+            this.btnOpenComm206 = new System.Windows.Forms.Button();
+            this.btnRefresh206 = new System.Windows.Forms.Button();
+            this.cbxBaud206 = new System.Windows.Forms.ComboBox();
+            this.label22 = new System.Windows.Forms.Label();
+            this.cbxCommNum206 = new System.Windows.Forms.ComboBox();
+            this.label23 = new System.Windows.Forms.Label();
+            this.navigationPage2 = new DevExpress.XtraBars.Navigation.NavigationPage();
+            this.groupControl10 = new DevExpress.XtraEditors.GroupControl();
+            this.tbxYAngleD60 = new System.Windows.Forms.TextBox();
+            this.label24 = new System.Windows.Forms.Label();
+            this.rtbD60 = new System.Windows.Forms.RichTextBox();
+            this.tbxXAngleD60 = new System.Windows.Forms.TextBox();
+            this.tbxCompassAngleD60 = new System.Windows.Forms.TextBox();
+            this.label25 = new System.Windows.Forms.Label();
+            this.label26 = new System.Windows.Forms.Label();
+            this.groupControl11 = new DevExpress.XtraEditors.GroupControl();
+            this.label27 = new System.Windows.Forms.Label();
+            this.btnCollectD60 = new System.Windows.Forms.Button();
+            this.btnSelectPathD60 = new System.Windows.Forms.Button();
+            this.label28 = new System.Windows.Forms.Label();
+            this.tbxFilePathD60 = new System.Windows.Forms.TextBox();
+            this.tbxFileNameD60 = new System.Windows.Forms.TextBox();
+            this.label29 = new System.Windows.Forms.Label();
+            this.groupControl12 = new DevExpress.XtraEditors.GroupControl();
+            this.btnOpenCommD60 = new System.Windows.Forms.Button();
+            this.btnRefreshD60 = new System.Windows.Forms.Button();
+            this.cbxBaudD60 = new System.Windows.Forms.ComboBox();
+            this.label30 = new System.Windows.Forms.Label();
+            this.cbxCommNumD60 = new System.Windows.Forms.ComboBox();
+            this.label31 = new System.Windows.Forms.Label();
+            this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.navigationFrame)).BeginInit();
             this.navigationFrame.SuspendLayout();
             this.employeesNavigationPage.SuspendLayout();
@@ -117,6 +165,20 @@
             this.groupControl5.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl6)).BeginInit();
             this.groupControl6.SuspendLayout();
+            this.navigationPage1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl7)).BeginInit();
+            this.groupControl7.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl8)).BeginInit();
+            this.groupControl8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl9)).BeginInit();
+            this.groupControl9.SuspendLayout();
+            this.navigationPage2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl10)).BeginInit();
+            this.groupControl10.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl11)).BeginInit();
+            this.groupControl11.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl12)).BeginInit();
+            this.groupControl12.SuspendLayout();
             this.SuspendLayout();
             // 
             // tileBar
@@ -152,6 +214,7 @@
             this.tileBar.Text = "tileBar";
             this.tileBar.WideTileWidth = 150;
             this.tileBar.SelectedItemChanged += new DevExpress.XtraEditors.TileItemClickEventHandler(this.tileBar_SelectedItemChanged);
+            this.tileBar.Click += new System.EventHandler(this.tileBar_Click);
             // 
             // tileBarGroupTables
             // 
@@ -167,69 +230,68 @@
             this.eployeesTileBarItem.AppearanceItem.Normal.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(115)))), ((int)(((byte)(196)))));
             this.eployeesTileBarItem.AppearanceItem.Normal.Options.UseBackColor = true;
             this.eployeesTileBarItem.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement9.ImageUri.Uri = "Cube;Size32x32;GrayScaled";
-            tileItemElement9.Text = "SANG1000-S90BMR13";
-            this.eployeesTileBarItem.Elements.Add(tileItemElement9);
+            tileItemElement5.Text = "SANG1000-S90BMR13";
+            this.eployeesTileBarItem.Elements.Add(tileItemElement5);
             this.eployeesTileBarItem.ItemSize = DevExpress.XtraBars.Navigation.TileBarItemSize.Default;
             this.eployeesTileBarItem.Name = "eployeesTileBarItem";
-            toolTipTitleItem9.Text = "SANG1000-S90BMR13";
-            toolTipItem9.LeftIndent = 6;
-            toolTipItem9.Text = "出数频率：20Hz\r\n波特率：9600\r\n显示方式：ASCII";
-            superToolTip9.Items.Add(toolTipTitleItem9);
-            superToolTip9.Items.Add(toolTipItem9);
-            this.eployeesTileBarItem.SuperTip = superToolTip9;
+            toolTipTitleItem5.Text = "SANG1000-S90BMR13";
+            toolTipItem5.LeftIndent = 6;
+            toolTipItem5.Text = "出数频率：20Hz\r\n波特率：9600\r\n显示方式：ASCII";
+            superToolTip5.Items.Add(toolTipTitleItem5);
+            superToolTip5.Items.Add(toolTipItem5);
+            this.eployeesTileBarItem.SuperTip = superToolTip5;
             // 
             // customersTileBarItem
             // 
             this.customersTileBarItem.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement10.ImageUri.Uri = "Cube;Size32x32;GrayScaled";
-            tileItemElement10.Text = "SANG1000-D15EMR13";
-            this.customersTileBarItem.Elements.Add(tileItemElement10);
+            tileItemElement6.Text = "SANG1000-D15EMR13";
+            this.customersTileBarItem.Elements.Add(tileItemElement6);
             this.customersTileBarItem.Id = 2;
             this.customersTileBarItem.ItemSize = DevExpress.XtraBars.Navigation.TileBarItemSize.Wide;
             this.customersTileBarItem.Name = "customersTileBarItem";
-            toolTipTitleItem10.Text = "SANG1000-D15EMR13";
-            toolTipItem10.LeftIndent = 6;
-            toolTipItem10.Text = "出数频率：20Hz\r\n波特率：9600\r\n显示方式：ASCII";
-            superToolTip10.Items.Add(toolTipTitleItem10);
-            superToolTip10.Items.Add(toolTipItem10);
-            this.customersTileBarItem.SuperTip = superToolTip10;
+            toolTipTitleItem6.Text = "SANG1000-D15EMR13";
+            toolTipItem6.LeftIndent = 6;
+            toolTipItem6.Text = "出数频率：20Hz\r\n波特率：9600\r\n显示方式：ASCII";
+            superToolTip6.Items.Add(toolTipTitleItem6);
+            superToolTip6.Items.Add(toolTipItem6);
+            this.customersTileBarItem.SuperTip = superToolTip6;
             // 
             // tileBarItem1
             // 
             this.tileBarItem1.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement11.Text = "SANG1000(206)";
-            this.tileBarItem1.Elements.Add(tileItemElement11);
+            tileItemElement7.Text = "SANG1000(206)";
+            this.tileBarItem1.Elements.Add(tileItemElement7);
             this.tileBarItem1.Id = 3;
             this.tileBarItem1.ItemSize = DevExpress.XtraBars.Navigation.TileBarItemSize.Wide;
             this.tileBarItem1.Name = "tileBarItem1";
-            toolTipTitleItem11.Text = "SANG1000(206)";
-            toolTipItem11.LeftIndent = 6;
-            toolTipItem11.Text = "出数频率：20Hz\r\n波特率：9600\r\n显示方式：Hex";
-            superToolTip11.Items.Add(toolTipTitleItem11);
-            superToolTip11.Items.Add(toolTipItem11);
-            this.tileBarItem1.SuperTip = superToolTip11;
+            toolTipTitleItem7.Text = "SANG1000(206)";
+            toolTipItem7.LeftIndent = 6;
+            toolTipItem7.Text = "出数频率：20Hz\r\n波特率：9600\r\n显示方式：Hex";
+            superToolTip7.Items.Add(toolTipTitleItem7);
+            superToolTip7.Items.Add(toolTipItem7);
+            this.tileBarItem1.SuperTip = superToolTip7;
             // 
             // tileBarItem2
             // 
             this.tileBarItem2.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement12.Text = "SANG1000-D60BMR13";
-            this.tileBarItem2.Elements.Add(tileItemElement12);
+            tileItemElement8.Text = "SANG1000-D60BMR13";
+            this.tileBarItem2.Elements.Add(tileItemElement8);
             this.tileBarItem2.Id = 4;
             this.tileBarItem2.ItemSize = DevExpress.XtraBars.Navigation.TileBarItemSize.Wide;
             this.tileBarItem2.Name = "tileBarItem2";
-            toolTipTitleItem12.Text = "SANG1000-D60BMR13";
-            toolTipItem12.LeftIndent = 6;
-            toolTipItem12.Text = "出数频率：?Hz\r\n波特率：9600\r\n显示方式：Hex";
-            superToolTip12.Items.Add(toolTipTitleItem12);
-            superToolTip12.Items.Add(toolTipItem12);
-            this.tileBarItem2.SuperTip = superToolTip12;
+            toolTipTitleItem8.Text = "SANG1000-D60BMR13";
+            toolTipItem8.LeftIndent = 6;
+            toolTipItem8.Text = "出数频率：?Hz\r\n波特率：9600\r\n显示方式：Hex";
+            superToolTip8.Items.Add(toolTipTitleItem8);
+            superToolTip8.Items.Add(toolTipItem8);
+            this.tileBarItem2.SuperTip = superToolTip8;
             // 
             // navigationFrame
             // 
             this.navigationFrame.Controls.Add(this.employeesNavigationPage);
             this.navigationFrame.Controls.Add(this.customersNavigationPage);
             this.navigationFrame.Controls.Add(this.navigationPage1);
+            this.navigationFrame.Controls.Add(this.navigationPage2);
             this.navigationFrame.Dock = System.Windows.Forms.DockStyle.Fill;
             this.navigationFrame.Location = new System.Drawing.Point(0, 118);
             this.navigationFrame.Margin = new System.Windows.Forms.Padding(5);
@@ -237,7 +299,8 @@
             this.navigationFrame.Pages.AddRange(new DevExpress.XtraBars.Navigation.NavigationPageBase[] {
             this.employeesNavigationPage,
             this.customersNavigationPage,
-            this.navigationPage1});
+            this.navigationPage1,
+            this.navigationPage2});
             this.navigationFrame.SelectedPage = this.employeesNavigationPage;
             this.navigationFrame.Size = new System.Drawing.Size(698, 345);
             this.navigationFrame.TabIndex = 0;
@@ -333,14 +396,14 @@
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(88, 16);
             this.label11.TabIndex = 5;
-            this.label11.Text = "路径选择：";
+            this.label11.Text = "存储路径：";
             // 
             // btnCollectS90
             // 
             this.btnCollectS90.AutoSize = true;
             this.btnCollectS90.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnCollectS90.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCollectS90.Location = new System.Drawing.Point(115, 164);
+            this.btnCollectS90.Location = new System.Drawing.Point(178, 161);
             this.btnCollectS90.Name = "btnCollectS90";
             this.btnCollectS90.Size = new System.Drawing.Size(82, 26);
             this.btnCollectS90.TabIndex = 8;
@@ -353,7 +416,7 @@
             this.btnSelectPathS90.AutoSize = true;
             this.btnSelectPathS90.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnSelectPathS90.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSelectPathS90.Location = new System.Drawing.Point(115, 85);
+            this.btnSelectPathS90.Location = new System.Drawing.Point(74, 161);
             this.btnSelectPathS90.Name = "btnSelectPathS90";
             this.btnSelectPathS90.Size = new System.Drawing.Size(82, 26);
             this.btnSelectPathS90.TabIndex = 8;
@@ -594,14 +657,14 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(88, 16);
             this.label7.TabIndex = 5;
-            this.label7.Text = "路径选择：";
+            this.label7.Text = "存储路径：";
             // 
             // btnCollectD15
             // 
             this.btnCollectD15.AutoSize = true;
             this.btnCollectD15.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnCollectD15.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCollectD15.Location = new System.Drawing.Point(115, 164);
+            this.btnCollectD15.Location = new System.Drawing.Point(196, 164);
             this.btnCollectD15.Name = "btnCollectD15";
             this.btnCollectD15.Size = new System.Drawing.Size(82, 26);
             this.btnCollectD15.TabIndex = 8;
@@ -614,7 +677,7 @@
             this.btnSelectPathD15.AutoSize = true;
             this.btnSelectPathD15.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnSelectPathD15.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSelectPathD15.Location = new System.Drawing.Point(115, 85);
+            this.btnSelectPathD15.Location = new System.Drawing.Point(87, 164);
             this.btnSelectPathD15.Name = "btnSelectPathD15";
             this.btnSelectPathD15.Size = new System.Drawing.Size(82, 26);
             this.btnSelectPathD15.TabIndex = 8;
@@ -763,8 +826,522 @@
             // navigationPage1
             // 
             this.navigationPage1.Caption = "navigationPage1";
+            this.navigationPage1.Controls.Add(this.groupControl7);
+            this.navigationPage1.Controls.Add(this.groupControl8);
+            this.navigationPage1.Controls.Add(this.groupControl9);
             this.navigationPage1.Name = "navigationPage1";
             this.navigationPage1.Size = new System.Drawing.Size(698, 345);
+            // 
+            // groupControl7
+            // 
+            this.groupControl7.Controls.Add(this.tbxYAngle206);
+            this.groupControl7.Controls.Add(this.label16);
+            this.groupControl7.Controls.Add(this.rtb206);
+            this.groupControl7.Controls.Add(this.tbxXAngle206);
+            this.groupControl7.Controls.Add(this.tbxTempreature206);
+            this.groupControl7.Controls.Add(this.label17);
+            this.groupControl7.Controls.Add(this.label18);
+            this.groupControl7.Location = new System.Drawing.Point(11, 10);
+            this.groupControl7.Name = "groupControl7";
+            this.groupControl7.Size = new System.Drawing.Size(352, 324);
+            this.groupControl7.TabIndex = 15;
+            this.groupControl7.Text = "数据显示";
+            // 
+            // tbxYAngle206
+            // 
+            this.tbxYAngle206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxYAngle206.Location = new System.Drawing.Point(244, 26);
+            this.tbxYAngle206.Name = "tbxYAngle206";
+            this.tbxYAngle206.Size = new System.Drawing.Size(79, 26);
+            this.tbxYAngle206.TabIndex = 12;
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label16.Location = new System.Drawing.Point(182, 29);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(48, 16);
+            this.label16.TabIndex = 11;
+            this.label16.Text = "Y轴：";
+            // 
+            // rtb206
+            // 
+            this.rtb206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rtb206.Location = new System.Drawing.Point(5, 104);
+            this.rtb206.Name = "rtb206";
+            this.rtb206.Size = new System.Drawing.Size(342, 215);
+            this.rtb206.TabIndex = 10;
+            this.rtb206.Text = "";
+            // 
+            // tbxXAngle206
+            // 
+            this.tbxXAngle206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxXAngle206.Location = new System.Drawing.Point(74, 26);
+            this.tbxXAngle206.Name = "tbxXAngle206";
+            this.tbxXAngle206.Size = new System.Drawing.Size(79, 26);
+            this.tbxXAngle206.TabIndex = 8;
+            // 
+            // tbxTempreature206
+            // 
+            this.tbxTempreature206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxTempreature206.Location = new System.Drawing.Point(74, 58);
+            this.tbxTempreature206.Name = "tbxTempreature206";
+            this.tbxTempreature206.Size = new System.Drawing.Size(79, 26);
+            this.tbxTempreature206.TabIndex = 9;
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label17.Location = new System.Drawing.Point(12, 29);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(48, 16);
+            this.label17.TabIndex = 6;
+            this.label17.Text = "X轴：";
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.Location = new System.Drawing.Point(12, 61);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(56, 16);
+            this.label18.TabIndex = 7;
+            this.label18.Text = "温度：";
+            // 
+            // groupControl8
+            // 
+            this.groupControl8.Controls.Add(this.label19);
+            this.groupControl8.Controls.Add(this.btnCollect206);
+            this.groupControl8.Controls.Add(this.btnSelectPath206);
+            this.groupControl8.Controls.Add(this.label20);
+            this.groupControl8.Controls.Add(this.tbxFilePath206);
+            this.groupControl8.Controls.Add(this.tbxFileName206);
+            this.groupControl8.Controls.Add(this.label21);
+            this.groupControl8.Location = new System.Drawing.Point(369, 112);
+            this.groupControl8.Name = "groupControl8";
+            this.groupControl8.Size = new System.Drawing.Size(318, 222);
+            this.groupControl8.TabIndex = 14;
+            this.groupControl8.Text = "数据采集";
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label19.Location = new System.Drawing.Point(5, 85);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(88, 16);
+            this.label19.TabIndex = 5;
+            this.label19.Text = "存储路径：";
+            // 
+            // btnCollect206
+            // 
+            this.btnCollect206.AutoSize = true;
+            this.btnCollect206.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnCollect206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCollect206.Location = new System.Drawing.Point(196, 164);
+            this.btnCollect206.Name = "btnCollect206";
+            this.btnCollect206.Size = new System.Drawing.Size(82, 26);
+            this.btnCollect206.TabIndex = 8;
+            this.btnCollect206.Text = "开始采集";
+            this.btnCollect206.UseVisualStyleBackColor = true;
+            this.btnCollect206.Click += new System.EventHandler(this.btnCollect206_Click);
+            // 
+            // btnSelectPath206
+            // 
+            this.btnSelectPath206.AutoSize = true;
+            this.btnSelectPath206.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnSelectPath206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSelectPath206.Location = new System.Drawing.Point(87, 164);
+            this.btnSelectPath206.Name = "btnSelectPath206";
+            this.btnSelectPath206.Size = new System.Drawing.Size(82, 26);
+            this.btnSelectPath206.TabIndex = 8;
+            this.btnSelectPath206.Text = "浏览路径";
+            this.btnSelectPath206.UseVisualStyleBackColor = true;
+            this.btnSelectPath206.Click += new System.EventHandler(this.btnSelectPath206_Click);
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label20.Location = new System.Drawing.Point(5, 39);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(104, 16);
+            this.label20.TabIndex = 5;
+            this.label20.Text = "数据文件名：";
+            // 
+            // tbxFilePath206
+            // 
+            this.tbxFilePath206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxFilePath206.Location = new System.Drawing.Point(5, 117);
+            this.tbxFilePath206.Name = "tbxFilePath206";
+            this.tbxFilePath206.ReadOnly = true;
+            this.tbxFilePath206.Size = new System.Drawing.Size(308, 26);
+            this.tbxFilePath206.TabIndex = 7;
+            // 
+            // tbxFileName206
+            // 
+            this.tbxFileName206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxFileName206.Location = new System.Drawing.Point(115, 36);
+            this.tbxFileName206.Name = "tbxFileName206";
+            this.tbxFileName206.Size = new System.Drawing.Size(102, 26);
+            this.tbxFileName206.TabIndex = 7;
+            this.tbxFileName206.TextChanged += new System.EventHandler(this.tbxFileName206_TextChanged);
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label21.Location = new System.Drawing.Point(223, 39);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(40, 16);
+            this.label21.TabIndex = 6;
+            this.label21.Text = ".txt";
+            // 
+            // groupControl9
+            // 
+            this.groupControl9.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.groupControl9.Controls.Add(this.btnOpenComm206);
+            this.groupControl9.Controls.Add(this.btnRefresh206);
+            this.groupControl9.Controls.Add(this.cbxBaud206);
+            this.groupControl9.Controls.Add(this.label22);
+            this.groupControl9.Controls.Add(this.cbxCommNum206);
+            this.groupControl9.Controls.Add(this.label23);
+            this.groupControl9.Location = new System.Drawing.Point(369, 10);
+            this.groupControl9.Name = "groupControl9";
+            this.groupControl9.Size = new System.Drawing.Size(318, 96);
+            this.groupControl9.TabIndex = 13;
+            this.groupControl9.Text = "串口操作";
+            // 
+            // btnOpenComm206
+            // 
+            this.btnOpenComm206.AutoSize = true;
+            this.btnOpenComm206.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnOpenComm206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOpenComm206.Location = new System.Drawing.Point(196, 58);
+            this.btnOpenComm206.Name = "btnOpenComm206";
+            this.btnOpenComm206.Size = new System.Drawing.Size(82, 26);
+            this.btnOpenComm206.TabIndex = 7;
+            this.btnOpenComm206.Text = "打开串口";
+            this.btnOpenComm206.UseVisualStyleBackColor = true;
+            this.btnOpenComm206.Click += new System.EventHandler(this.btnOpenComm206_Click);
+            // 
+            // btnRefresh206
+            // 
+            this.btnRefresh206.AutoSize = true;
+            this.btnRefresh206.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnRefresh206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRefresh206.Location = new System.Drawing.Point(196, 26);
+            this.btnRefresh206.Name = "btnRefresh206";
+            this.btnRefresh206.Size = new System.Drawing.Size(82, 26);
+            this.btnRefresh206.TabIndex = 8;
+            this.btnRefresh206.Text = "刷新串口";
+            this.btnRefresh206.UseVisualStyleBackColor = true;
+            this.btnRefresh206.Click += new System.EventHandler(this.btnRefresh206_Click);
+            // 
+            // cbxBaud206
+            // 
+            this.cbxBaud206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbxBaud206.FormattingEnabled = true;
+            this.cbxBaud206.Items.AddRange(new object[] {
+            "9600",
+            "38400",
+            "115200"});
+            this.cbxBaud206.Location = new System.Drawing.Point(87, 60);
+            this.cbxBaud206.Name = "cbxBaud206";
+            this.cbxBaud206.Size = new System.Drawing.Size(95, 24);
+            this.cbxBaud206.TabIndex = 5;
+            this.cbxBaud206.Text = "9600";
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label22.Location = new System.Drawing.Point(5, 63);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(72, 16);
+            this.label22.TabIndex = 3;
+            this.label22.Text = "波特率：";
+            // 
+            // cbxCommNum206
+            // 
+            this.cbxCommNum206.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbxCommNum206.FormattingEnabled = true;
+            this.cbxCommNum206.Location = new System.Drawing.Point(87, 28);
+            this.cbxCommNum206.Name = "cbxCommNum206";
+            this.cbxCommNum206.Size = new System.Drawing.Size(95, 24);
+            this.cbxCommNum206.TabIndex = 6;
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label23.Location = new System.Drawing.Point(5, 31);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(72, 16);
+            this.label23.TabIndex = 4;
+            this.label23.Text = "串口号：";
+            // 
+            // navigationPage2
+            // 
+            this.navigationPage2.Caption = "navigationPage2";
+            this.navigationPage2.Controls.Add(this.groupControl10);
+            this.navigationPage2.Controls.Add(this.groupControl11);
+            this.navigationPage2.Controls.Add(this.groupControl12);
+            this.navigationPage2.Name = "navigationPage2";
+            this.navigationPage2.Size = new System.Drawing.Size(698, 345);
+            // 
+            // groupControl10
+            // 
+            this.groupControl10.Controls.Add(this.tbxYAngleD60);
+            this.groupControl10.Controls.Add(this.label24);
+            this.groupControl10.Controls.Add(this.rtbD60);
+            this.groupControl10.Controls.Add(this.tbxXAngleD60);
+            this.groupControl10.Controls.Add(this.tbxCompassAngleD60);
+            this.groupControl10.Controls.Add(this.label25);
+            this.groupControl10.Controls.Add(this.label26);
+            this.groupControl10.Location = new System.Drawing.Point(11, 10);
+            this.groupControl10.Name = "groupControl10";
+            this.groupControl10.Size = new System.Drawing.Size(352, 324);
+            this.groupControl10.TabIndex = 18;
+            this.groupControl10.Text = "数据显示";
+            // 
+            // tbxYAngleD60
+            // 
+            this.tbxYAngleD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxYAngleD60.Location = new System.Drawing.Point(244, 26);
+            this.tbxYAngleD60.Name = "tbxYAngleD60";
+            this.tbxYAngleD60.Size = new System.Drawing.Size(79, 26);
+            this.tbxYAngleD60.TabIndex = 12;
+            // 
+            // label24
+            // 
+            this.label24.AutoSize = true;
+            this.label24.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label24.Location = new System.Drawing.Point(182, 29);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(48, 16);
+            this.label24.TabIndex = 11;
+            this.label24.Text = "Y轴：";
+            // 
+            // rtbD60
+            // 
+            this.rtbD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rtbD60.Location = new System.Drawing.Point(5, 104);
+            this.rtbD60.Name = "rtbD60";
+            this.rtbD60.Size = new System.Drawing.Size(342, 215);
+            this.rtbD60.TabIndex = 10;
+            this.rtbD60.Text = "";
+            // 
+            // tbxXAngleD60
+            // 
+            this.tbxXAngleD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxXAngleD60.Location = new System.Drawing.Point(74, 26);
+            this.tbxXAngleD60.Name = "tbxXAngleD60";
+            this.tbxXAngleD60.Size = new System.Drawing.Size(79, 26);
+            this.tbxXAngleD60.TabIndex = 8;
+            // 
+            // tbxCompassAngleD60
+            // 
+            this.tbxCompassAngleD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxCompassAngleD60.Location = new System.Drawing.Point(74, 58);
+            this.tbxCompassAngleD60.Name = "tbxCompassAngleD60";
+            this.tbxCompassAngleD60.Size = new System.Drawing.Size(79, 26);
+            this.tbxCompassAngleD60.TabIndex = 9;
+            // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label25.Location = new System.Drawing.Point(12, 29);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(48, 16);
+            this.label25.TabIndex = 6;
+            this.label25.Text = "X轴：";
+            // 
+            // label26
+            // 
+            this.label26.AutoSize = true;
+            this.label26.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label26.Location = new System.Drawing.Point(12, 61);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(56, 16);
+            this.label26.TabIndex = 7;
+            this.label26.Text = "方位：";
+            // 
+            // groupControl11
+            // 
+            this.groupControl11.Controls.Add(this.label27);
+            this.groupControl11.Controls.Add(this.btnCollectD60);
+            this.groupControl11.Controls.Add(this.btnSelectPathD60);
+            this.groupControl11.Controls.Add(this.label28);
+            this.groupControl11.Controls.Add(this.tbxFilePathD60);
+            this.groupControl11.Controls.Add(this.tbxFileNameD60);
+            this.groupControl11.Controls.Add(this.label29);
+            this.groupControl11.Location = new System.Drawing.Point(369, 112);
+            this.groupControl11.Name = "groupControl11";
+            this.groupControl11.Size = new System.Drawing.Size(318, 222);
+            this.groupControl11.TabIndex = 17;
+            this.groupControl11.Text = "数据采集";
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label27.Location = new System.Drawing.Point(5, 85);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(88, 16);
+            this.label27.TabIndex = 5;
+            this.label27.Text = "存储路径：";
+            // 
+            // btnCollectD60
+            // 
+            this.btnCollectD60.AutoSize = true;
+            this.btnCollectD60.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnCollectD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCollectD60.Location = new System.Drawing.Point(196, 164);
+            this.btnCollectD60.Name = "btnCollectD60";
+            this.btnCollectD60.Size = new System.Drawing.Size(82, 26);
+            this.btnCollectD60.TabIndex = 8;
+            this.btnCollectD60.Text = "开始采集";
+            this.btnCollectD60.UseVisualStyleBackColor = true;
+            this.btnCollectD60.Click += new System.EventHandler(this.btnCollectD60_Click);
+            // 
+            // btnSelectPathD60
+            // 
+            this.btnSelectPathD60.AutoSize = true;
+            this.btnSelectPathD60.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnSelectPathD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSelectPathD60.Location = new System.Drawing.Point(87, 164);
+            this.btnSelectPathD60.Name = "btnSelectPathD60";
+            this.btnSelectPathD60.Size = new System.Drawing.Size(82, 26);
+            this.btnSelectPathD60.TabIndex = 8;
+            this.btnSelectPathD60.Text = "浏览路径";
+            this.btnSelectPathD60.UseVisualStyleBackColor = true;
+            this.btnSelectPathD60.Click += new System.EventHandler(this.btnSelectPathD60_Click);
+            // 
+            // label28
+            // 
+            this.label28.AutoSize = true;
+            this.label28.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label28.Location = new System.Drawing.Point(5, 39);
+            this.label28.Name = "label28";
+            this.label28.Size = new System.Drawing.Size(104, 16);
+            this.label28.TabIndex = 5;
+            this.label28.Text = "数据文件名：";
+            // 
+            // tbxFilePathD60
+            // 
+            this.tbxFilePathD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxFilePathD60.Location = new System.Drawing.Point(5, 117);
+            this.tbxFilePathD60.Name = "tbxFilePathD60";
+            this.tbxFilePathD60.ReadOnly = true;
+            this.tbxFilePathD60.Size = new System.Drawing.Size(308, 26);
+            this.tbxFilePathD60.TabIndex = 7;
+            // 
+            // tbxFileNameD60
+            // 
+            this.tbxFileNameD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxFileNameD60.Location = new System.Drawing.Point(115, 36);
+            this.tbxFileNameD60.Name = "tbxFileNameD60";
+            this.tbxFileNameD60.Size = new System.Drawing.Size(102, 26);
+            this.tbxFileNameD60.TabIndex = 7;
+            this.tbxFileNameD60.TextChanged += new System.EventHandler(this.tbxFileNameD60_TextChanged);
+            // 
+            // label29
+            // 
+            this.label29.AutoSize = true;
+            this.label29.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label29.Location = new System.Drawing.Point(223, 39);
+            this.label29.Name = "label29";
+            this.label29.Size = new System.Drawing.Size(40, 16);
+            this.label29.TabIndex = 6;
+            this.label29.Text = ".txt";
+            // 
+            // groupControl12
+            // 
+            this.groupControl12.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.groupControl12.Controls.Add(this.btnOpenCommD60);
+            this.groupControl12.Controls.Add(this.btnRefreshD60);
+            this.groupControl12.Controls.Add(this.cbxBaudD60);
+            this.groupControl12.Controls.Add(this.label30);
+            this.groupControl12.Controls.Add(this.cbxCommNumD60);
+            this.groupControl12.Controls.Add(this.label31);
+            this.groupControl12.Location = new System.Drawing.Point(369, 10);
+            this.groupControl12.Name = "groupControl12";
+            this.groupControl12.Size = new System.Drawing.Size(318, 96);
+            this.groupControl12.TabIndex = 16;
+            this.groupControl12.Text = "串口操作";
+            // 
+            // btnOpenCommD60
+            // 
+            this.btnOpenCommD60.AutoSize = true;
+            this.btnOpenCommD60.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnOpenCommD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOpenCommD60.Location = new System.Drawing.Point(196, 58);
+            this.btnOpenCommD60.Name = "btnOpenCommD60";
+            this.btnOpenCommD60.Size = new System.Drawing.Size(82, 26);
+            this.btnOpenCommD60.TabIndex = 7;
+            this.btnOpenCommD60.Text = "打开串口";
+            this.btnOpenCommD60.UseVisualStyleBackColor = true;
+            this.btnOpenCommD60.Click += new System.EventHandler(this.btnOpenCommD60_Click);
+            // 
+            // btnRefreshD60
+            // 
+            this.btnRefreshD60.AutoSize = true;
+            this.btnRefreshD60.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnRefreshD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRefreshD60.Location = new System.Drawing.Point(196, 26);
+            this.btnRefreshD60.Name = "btnRefreshD60";
+            this.btnRefreshD60.Size = new System.Drawing.Size(82, 26);
+            this.btnRefreshD60.TabIndex = 8;
+            this.btnRefreshD60.Text = "刷新串口";
+            this.btnRefreshD60.UseVisualStyleBackColor = true;
+            this.btnRefreshD60.Click += new System.EventHandler(this.btnRefreshD60_Click);
+            // 
+            // cbxBaudD60
+            // 
+            this.cbxBaudD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbxBaudD60.FormattingEnabled = true;
+            this.cbxBaudD60.Items.AddRange(new object[] {
+            "9600",
+            "38400",
+            "115200"});
+            this.cbxBaudD60.Location = new System.Drawing.Point(87, 60);
+            this.cbxBaudD60.Name = "cbxBaudD60";
+            this.cbxBaudD60.Size = new System.Drawing.Size(95, 24);
+            this.cbxBaudD60.TabIndex = 5;
+            this.cbxBaudD60.Text = "9600";
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label30.Location = new System.Drawing.Point(5, 63);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(72, 16);
+            this.label30.TabIndex = 3;
+            this.label30.Text = "波特率：";
+            // 
+            // cbxCommNumD60
+            // 
+            this.cbxCommNumD60.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbxCommNumD60.FormattingEnabled = true;
+            this.cbxCommNumD60.Location = new System.Drawing.Point(87, 28);
+            this.cbxCommNumD60.Name = "cbxCommNumD60";
+            this.cbxCommNumD60.Size = new System.Drawing.Size(95, 24);
+            this.cbxCommNumD60.TabIndex = 6;
+            // 
+            // label31
+            // 
+            this.label31.AutoSize = true;
+            this.label31.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label31.Location = new System.Drawing.Point(5, 31);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(72, 16);
+            this.label31.TabIndex = 4;
+            this.label31.Text = "串口号：";
             // 
             // defaultLookAndFeel1
             // 
@@ -781,6 +1358,7 @@
             this.Controls.Add(this.tileBar);
             this.LookAndFeel.SkinName = "Seven Classic";
             this.Name = "Form1";
+            this.Text = "SANG1000显示软件";
             ((System.ComponentModel.ISupportInitialize)(this.navigationFrame)).EndInit();
             this.navigationFrame.ResumeLayout(false);
             this.employeesNavigationPage.ResumeLayout(false);
@@ -803,6 +1381,26 @@
             ((System.ComponentModel.ISupportInitialize)(this.groupControl6)).EndInit();
             this.groupControl6.ResumeLayout(false);
             this.groupControl6.PerformLayout();
+            this.navigationPage1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl7)).EndInit();
+            this.groupControl7.ResumeLayout(false);
+            this.groupControl7.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl8)).EndInit();
+            this.groupControl8.ResumeLayout(false);
+            this.groupControl8.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl9)).EndInit();
+            this.groupControl9.ResumeLayout(false);
+            this.groupControl9.PerformLayout();
+            this.navigationPage2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl10)).EndInit();
+            this.groupControl10.ResumeLayout(false);
+            this.groupControl10.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl11)).EndInit();
+            this.groupControl11.ResumeLayout(false);
+            this.groupControl11.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl12)).EndInit();
+            this.groupControl12.ResumeLayout(false);
+            this.groupControl12.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -865,5 +1463,52 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.ComboBox cbxCommNumD15;
         private System.Windows.Forms.Label label14;
+        private DevExpress.XtraEditors.GroupControl groupControl7;
+        private System.Windows.Forms.TextBox tbxYAngle206;
+        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.RichTextBox rtb206;
+        private System.Windows.Forms.TextBox tbxXAngle206;
+        private System.Windows.Forms.TextBox tbxTempreature206;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.Label label18;
+        private DevExpress.XtraEditors.GroupControl groupControl8;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.Button btnCollect206;
+        private System.Windows.Forms.Button btnSelectPath206;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.TextBox tbxFilePath206;
+        private System.Windows.Forms.TextBox tbxFileName206;
+        private System.Windows.Forms.Label label21;
+        private DevExpress.XtraEditors.GroupControl groupControl9;
+        private System.Windows.Forms.Button btnOpenComm206;
+        private System.Windows.Forms.Button btnRefresh206;
+        private System.Windows.Forms.ComboBox cbxBaud206;
+        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.ComboBox cbxCommNum206;
+        private System.Windows.Forms.Label label23;
+        private DevExpress.XtraBars.Navigation.NavigationPage navigationPage2;
+        private DevExpress.XtraEditors.GroupControl groupControl10;
+        private System.Windows.Forms.TextBox tbxYAngleD60;
+        private System.Windows.Forms.Label label24;
+        private System.Windows.Forms.RichTextBox rtbD60;
+        private System.Windows.Forms.TextBox tbxXAngleD60;
+        private System.Windows.Forms.TextBox tbxCompassAngleD60;
+        private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.Label label26;
+        private DevExpress.XtraEditors.GroupControl groupControl11;
+        private System.Windows.Forms.Label label27;
+        private System.Windows.Forms.Button btnCollectD60;
+        private System.Windows.Forms.Button btnSelectPathD60;
+        private System.Windows.Forms.Label label28;
+        private System.Windows.Forms.TextBox tbxFilePathD60;
+        private System.Windows.Forms.TextBox tbxFileNameD60;
+        private System.Windows.Forms.Label label29;
+        private DevExpress.XtraEditors.GroupControl groupControl12;
+        private System.Windows.Forms.Button btnOpenCommD60;
+        private System.Windows.Forms.Button btnRefreshD60;
+        private System.Windows.Forms.ComboBox cbxBaudD60;
+        private System.Windows.Forms.Label label30;
+        private System.Windows.Forms.ComboBox cbxCommNumD60;
+        private System.Windows.Forms.Label label31;
     }
 }
